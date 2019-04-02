@@ -1,0 +1,6 @@
+*.exe
+*.cmd
+
+.vscode/
+
+Readme.md

@@ -1,0 +1,1 @@
+docker run -d -p 8000:8000 --name=go-webapi-poc --net=timemanager_default pernix84/go-webapi-poc

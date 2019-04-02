@@ -1,4 +1,4 @@
--- USE `authservice`;
+USE `authservice`;
 
 create table `oauth_user` (
     `oauth_user_id` integer not null auto_increment,
